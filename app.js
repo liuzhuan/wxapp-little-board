@@ -15,6 +15,5 @@ App({
     if (site) {
       this.globalData.site = site
     }
-    console.log('[app on show]')
   }
 })
