@@ -1,2 +1,2 @@
-<view>小通告栏维护中。。。</view>
-<view>site: {{ site }}</view>
+<view class="title">小通告栏维护中</view>
+<view class="msg">site: {{ site }}</view>
